@@ -1,0 +1,3 @@
+This project focuses on analyzing Diwali sales data to uncover valuable insights and trends. Using data analytics techniques, the project aims to explore key aspects such as customer demographics, purchasing patterns, and sales distribution across different categories and regions.
+
+By utilizing Python libraries like Pandas, Seaborn, and Matplotlib, we generate visualizations to highlight the sales performance of various age groups, gender, and product categories. This analysis provides crucial information to help businesses make informed decisions for improving marketing strategies and enhancing customer engagement during the Diwali season.
